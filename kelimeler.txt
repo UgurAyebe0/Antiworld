@@ -861,7 +861,6 @@ türüyo
 türüyor
 türerim
 oe
-atanı
 maloe
 aptaloe
 annenisikim
@@ -950,9 +949,12 @@ allanı
 allani
 allahi
 allahin
-ata
-atan
-atta
+atanı si
+attanı si
+allahını
+allah
+kuranınızı
+kitabınızı
 aternos
 anası
 annası
