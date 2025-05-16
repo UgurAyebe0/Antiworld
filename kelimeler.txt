@@ -938,3 +938,5 @@ TC:
 tc:
 allahınınam
 ATASINI
+yarranı
+sikmis
