@@ -879,7 +879,6 @@ poe
 enayi
 enayı
 oğluş
-oğlum
 enai
 özürlü
 özrülüsün
@@ -895,7 +894,7 @@ köpeği
 aglama
 ağlama
 keslan
-kötüsün
+peosaga
 nonamesin
 cratio
 fanmısın
@@ -1079,4 +1078,6 @@ ananısikeratarım
 s5erler
 pırno
 jigolo
-
+o/c
+PKK
+otoospu çocuğu
