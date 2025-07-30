@@ -1,5 +1,7 @@
 mentcenter
 discord.gg
+aternos
+aternos.me
 gg/
 .gg
 shit
